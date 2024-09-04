@@ -19,5 +19,5 @@ https://www.felipeprado.com.br
   <br/>
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeprado&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeprado&theme=great-gatsby&hide_border=true"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeprado&theme=great-gatsby&hide_border=true" height='140' />
 </div>
