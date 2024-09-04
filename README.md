@@ -15,7 +15,7 @@ I currently work at Liqi Digital Assets, where I've been since the company was f
 Visit my website to learn more: 
 https://www.felipeprado.com.br
 
-<summary><b>💻 GitHub Profile Stats</b></summary>
+### 💻 GitHub Profile Stats
   <br/>
 <div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeprado&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
