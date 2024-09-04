@@ -1,4 +1,7 @@
+![image](https://github.com/user-attachments/assets/ffc75022-3bc1-438b-a584-62dd7b92cb7f)
+
 ## Hi there 👋
+
 
 <!--
 **felipeprado/felipeprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
