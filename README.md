@@ -17,7 +17,7 @@ https://www.felipeprado.com.br
 
 <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-<div align="center">
+<div align="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeprado&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipeprado&theme=great-gatsby&hide_border=true" height='140' />
 </div>
