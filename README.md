@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/ffc75022-3bc1-438b-a584-62dd7b92cb7f)
 
-##👋 Hi there 
+## 👋 Hi there 
 
 My name is Felipe, I'm Brazilian and I'm 34 years old. I've been immersed in the world of programming since I was 12 years old.
 
